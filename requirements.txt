@@ -1,0 +1,5 @@
+
+streamlit
+pandas
+requests
+fastmcp  # מאפשר להתחבר לשרת MCP (יש להתקין אם רוצים לעבוד מול MCP)
